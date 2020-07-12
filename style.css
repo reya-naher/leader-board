@@ -1,0 +1,25 @@
+body{
+  background-color: #E5E5E5;
+  
+}
+header{
+  background-color: #562EFF;
+}
+.container{
+  width: 70%;
+}
+.navbar img{
+  width: 40px;
+}
+.top-player img{
+  width: 56px;
+}
+.btn-time{
+  background-color: #FFE4E8;
+  color:red;
+  border:none;
+  
+}
+.card-bottom{
+  
+}
